@@ -1,13 +1,14 @@
 # Jack & Jill
 
 dagezi@{twitter, github, gmail.com}
-
+takeshi.sasaki@quipper.com
 
 
 ## 自己紹介
 
 - Quipper で Androidやってます
 - 東南アジア貧弱環境むけアプリ作ってます
+- Resistance Agent
 
 
 
