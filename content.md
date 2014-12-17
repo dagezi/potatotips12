@@ -72,6 +72,10 @@ android {
 
 
 
+# Googleの考えることは謎
+
+
+
 ## 中身
 
 https://android.googlesource.com/toolchain/jack/
@@ -99,4 +103,11 @@ Total time: 40.62 secs
 ```
 
 
+![j](misc-jackie-chan-l.png)
 
+
+
+## 将来に期待
+
+- 正直、今、ご利益はない
+- Google何企んでるの?
